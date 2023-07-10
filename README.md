@@ -6,8 +6,8 @@
 ### Code Program
 ![Gambar 1](ss1.png)
 ![Gambar 2](ss2.png)
-![Gambar 3)(ss3.png)
+![Gambar 3](ss3.png)
 
 
 ### OUTPUT
-![Gambar 4)(ss4.png)
+![Gambar 4](ss4.png)
